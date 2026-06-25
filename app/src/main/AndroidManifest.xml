@@ -23,7 +23,7 @@
             </intent-filter>
         </activity>
         <receiver
-            android:name=".Simplegit add .Widget"
+            android:name=".SimpleWidget"
             android:exported="true">
 
             <intent-filter>
